@@ -1,0 +1,12 @@
+# MCP config (contains API credentials)
+.mcp.json
+
+# Migration scripts (contain hardcoded credentials)
+copy_cases.sh
+copy_cases.py
+copy_cases_v2.py
+copy_freemium.py
+copy_remaining.py
+
+# OS files
+.DS_Store
